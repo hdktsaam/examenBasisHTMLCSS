@@ -15,6 +15,10 @@ Veel succes
 
 ## 100% zeker
 
-Koring is iets wat ALTIJD op dezelfde plaats blijft staan, ook al scroll je naar beneden
+Korting is iets wat ALTIJD op dezelfde plaats blijft staan, ook al scroll je naar beneden
 
 ![Alt text](images/100.png)
+
+Indien het kleiner wordt dan 700px komt alles onder elkaar te staan
+
+![Alt text](images/kleinerDan700px.png)
